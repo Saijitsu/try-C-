@@ -2,31 +2,16 @@
 
 namespace Variables
 {
-    class Program
+    class Variables
     {
         static void Main(string[] args)
         {
-           /*
-            byte number = 2;
-            int count = 10;
-            float totalPrice = 20.95f;
-            char character = 'A';
-            string firstName = "Nicolas";
-            bool isWorking = false; */
+            // 0: premier argument, 1: second argument
+            Console.WriteLine("{0} {1}", byte.MinValue, byte.MaxValue);
+            Console.WriteLine("{0} {1}", float.MinValue, float.MaxValue);
 
-            var number = 2;
-            var count = 10;
-            var totalPrice = 20.95f;
-            var character = 'A';
-            var firstName = "Nicolas";
-            var isWorking = false; 
-
-            Console.WriteLine(number);
-            Console.WriteLine(count);
-            Console.WriteLine(totalPrice);
-            Console.WriteLine(character);
-            Console.WriteLine(firstName);
-            Console.WriteLine(isWorking);
+            const float Pi = 3.14f;
+            Console.WriteLine(Pi);
         }
     }
 }
