@@ -1,4 +1,6 @@
-﻿namespace Classes
+﻿using System;
+
+namespace Classes
 {
     class Program {
     static void Main(string[] args)
@@ -14,6 +16,9 @@
             LastName = "Smith"
         };*/
 
+        Calculator calculator = new Calculator();
+        var result = calculator.Add(1, 2);
+        Console.WriteLine(result);
         }
     }
 }
