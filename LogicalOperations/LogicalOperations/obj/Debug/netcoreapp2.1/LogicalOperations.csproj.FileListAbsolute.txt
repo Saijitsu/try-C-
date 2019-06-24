@@ -1,0 +1,11 @@
+C:\Users\nturlet\Documents\formations\C#\LogicalOperations\LogicalOperations\bin\Debug\netcoreapp2.1\LogicalOperations.deps.json
+C:\Users\nturlet\Documents\formations\C#\LogicalOperations\LogicalOperations\bin\Debug\netcoreapp2.1\LogicalOperations.runtimeconfig.json
+C:\Users\nturlet\Documents\formations\C#\LogicalOperations\LogicalOperations\bin\Debug\netcoreapp2.1\LogicalOperations.runtimeconfig.dev.json
+C:\Users\nturlet\Documents\formations\C#\LogicalOperations\LogicalOperations\bin\Debug\netcoreapp2.1\LogicalOperations.dll
+C:\Users\nturlet\Documents\formations\C#\LogicalOperations\LogicalOperations\bin\Debug\netcoreapp2.1\LogicalOperations.pdb
+C:\Users\nturlet\Documents\formations\C#\LogicalOperations\LogicalOperations\obj\Debug\netcoreapp2.1\LogicalOperations.csprojAssemblyReference.cache
+C:\Users\nturlet\Documents\formations\C#\LogicalOperations\LogicalOperations\obj\Debug\netcoreapp2.1\LogicalOperations.csproj.CoreCompileInputs.cache
+C:\Users\nturlet\Documents\formations\C#\LogicalOperations\LogicalOperations\obj\Debug\netcoreapp2.1\LogicalOperations.AssemblyInfoInputs.cache
+C:\Users\nturlet\Documents\formations\C#\LogicalOperations\LogicalOperations\obj\Debug\netcoreapp2.1\LogicalOperations.AssemblyInfo.cs
+C:\Users\nturlet\Documents\formations\C#\LogicalOperations\LogicalOperations\obj\Debug\netcoreapp2.1\LogicalOperations.dll
+C:\Users\nturlet\Documents\formations\C#\LogicalOperations\LogicalOperations\obj\Debug\netcoreapp2.1\LogicalOperations.pdb
