@@ -18,6 +18,9 @@ namespace Strings
            var names = new string[3] {"Nicolas", "Michel", "Julio"};
            var formattedNames = string.Join(", ", names);
            Console.WriteLine(formattedNames);
+
+           var text = "Hello Johnny\nLook the following paths\nc:\\fakefolder\\folderultrafake\\file1\nHave a nice day!";
+           Console.WriteLine(text);
         }
     }
 }

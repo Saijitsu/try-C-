@@ -8,3 +8,4 @@ C:\Users\nturlet\Documents\formations\C#\Strings\Strings\obj\Debug\netcoreapp2.1
 C:\Users\nturlet\Documents\formations\C#\Strings\Strings\obj\Debug\netcoreapp2.1\Strings.AssemblyInfo.cs
 C:\Users\nturlet\Documents\formations\C#\Strings\Strings\obj\Debug\netcoreapp2.1\Strings.dll
 C:\Users\nturlet\Documents\formations\C#\Strings\Strings\obj\Debug\netcoreapp2.1\Strings.pdb
+C:\Users\nturlet\Documents\formations\C#\Strings\Strings\obj\Debug\netcoreapp2.1\Strings.csprojAssemblyReference.cache
