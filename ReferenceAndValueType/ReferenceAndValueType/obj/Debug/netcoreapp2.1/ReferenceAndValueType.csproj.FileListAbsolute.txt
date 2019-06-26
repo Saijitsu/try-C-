@@ -1,0 +1,11 @@
+C:\Users\nturlet\Documents\formations\C#\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\netcoreapp2.1\ReferenceAndValueType.deps.json
+C:\Users\nturlet\Documents\formations\C#\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\netcoreapp2.1\ReferenceAndValueType.runtimeconfig.json
+C:\Users\nturlet\Documents\formations\C#\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\netcoreapp2.1\ReferenceAndValueType.runtimeconfig.dev.json
+C:\Users\nturlet\Documents\formations\C#\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\netcoreapp2.1\ReferenceAndValueType.dll
+C:\Users\nturlet\Documents\formations\C#\ReferenceAndValueType\ReferenceAndValueType\bin\Debug\netcoreapp2.1\ReferenceAndValueType.pdb
+C:\Users\nturlet\Documents\formations\C#\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp2.1\ReferenceAndValueType.csprojAssemblyReference.cache
+C:\Users\nturlet\Documents\formations\C#\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp2.1\ReferenceAndValueType.csproj.CoreCompileInputs.cache
+C:\Users\nturlet\Documents\formations\C#\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp2.1\ReferenceAndValueType.AssemblyInfoInputs.cache
+C:\Users\nturlet\Documents\formations\C#\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp2.1\ReferenceAndValueType.AssemblyInfo.cs
+C:\Users\nturlet\Documents\formations\C#\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp2.1\ReferenceAndValueType.dll
+C:\Users\nturlet\Documents\formations\C#\ReferenceAndValueType\ReferenceAndValueType\obj\Debug\netcoreapp2.1\ReferenceAndValueType.pdb
